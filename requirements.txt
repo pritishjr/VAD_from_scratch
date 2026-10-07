@@ -1,0 +1,14 @@
+numpy
+scipy
+ librosa
+pandas
+pyyaml
+torch
+torchaudio
+scikit-learn
+onnx
+onnxruntime
+fastapi
+uvicorn
+hydra-core
+pytest
